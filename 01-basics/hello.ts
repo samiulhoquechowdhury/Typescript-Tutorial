@@ -1,2 +1,5 @@
 console.log("Hello, World!");
-//typescript is javascript with added syntax for types.
+/**
+ * Typescript is javascript with added syntax for types.
+ * TypeScript is a syntactic superset of javascript wich adds static types.
+ */
